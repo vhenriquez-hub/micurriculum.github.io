@@ -1,0 +1,91 @@
+body{
+    background-color: white;
+    margin: 0 0;
+    
+}
+
+header{
+    text-align: center;
+    background-color: #E6E6E6;
+    height: 11em;
+}
+
+section{
+   /* border: 1px solid red;*/
+}
+
+h1{
+    text-align: center;
+    margin-top: 0%;
+}
+
+h1, h2{
+    
+    color: #005677;
+    background-color: #C4C4C4;
+}
+
+h2{
+    padding-left:10px ;
+    margin-top: 2em;
+}
+
+
+li span{
+    font-style: italic;
+}
+
+
+span{
+    font-weight: bold;
+}
+
+footer{
+    background-color: #005677;
+    color: white;
+    text-align: center;
+}
+
+article{
+    padding-left: 2%;
+}
+
+.anios, .detalle{
+    vertical-align: text-top;
+    text-align:left;
+    display:inline-block;
+    height: 50px;
+    width: auto;
+}
+
+.anios p{
+
+    margin-bottom: 20px;
+
+
+}
+
+.experiencialaboral{
+
+    padding-bottom: 4em;
+}
+
+
+p{
+    vertical-align: text-bottom;
+    margin: 0 0;
+    padding: 0 0;
+}
+
+footer{
+    padding: 5px 5px;
+}
+
+footer p{
+    font-size: 20px;
+}
+
+footer p, img{
+    vertical-align:middle;
+    margin-left: 20px;
+}
